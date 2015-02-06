@@ -1,0 +1,46 @@
+canvas{
+  border:1px solid black;
+  margin:auto auto;
+}
+
+#controls{
+  width:20%;
+  float:left;
+  border-right:1px solid #222;
+  height:auto;
+  margin-top:10px;
+}
+
+#render{
+  margin-top:10px;
+  min-width:650px;
+  width:60%;
+  float:right;
+  height:auto;
+}
+
+#header{
+  height:5rem;
+  font-size:2.6rem;
+  font-weight:600;
+  background-color:#f89406;
+  color:white;
+  line-height:5rem;
+}
+
+body{
+  margin:0;
+} 
+
+#wrapper{
+  width:90%;
+  margin:auto;
+}
+
+input{
+  margin:5px;
+}
+
+textarea{
+  margin:5px;
+}
